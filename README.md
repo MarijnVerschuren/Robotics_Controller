@@ -1,2 +1,2 @@
-# CPU_tile
-a PBC tile to be incorperated in other PCB projects
+# Robotics_Controller
+a general robotics controller for: cars, boats and avionics
